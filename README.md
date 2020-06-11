@@ -2,7 +2,6 @@
 # Challenge
 
 # Assumptions
---
 
 1. The Wikipedia data is stored in valid json format. The kaggle and ratings data is stored in valid csv format. 
 
